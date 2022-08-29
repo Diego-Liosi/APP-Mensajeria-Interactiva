@@ -5,8 +5,7 @@ let activechannel = 0;                                      //Variable numerica 
 //USER NAME
 //Definicion del User Name
 var username = prompt('Ingresar Nombre de Usuario');
-let usertag = document.getElementById("us
-er-name");
+let usertag = document.getElementById("user-name");
 let userelement = document.createElement("p");
 userelement.innerHTML = username;
 usertag.appendChild(userelement);
