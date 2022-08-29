@@ -5,40 +5,54 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" type="text/css" rel="stylesheet">
     <title>APP Mensajeria</title>
 </head>
 
 <body>
-    <header>
-        <h2>TituloModificable</h2>
-        <input type="text" placeholder="Search">
-    </header>
-
     <aside>
-        <div id="title">
+        <div>
             <h2>Reto GeeksHubs</h2>
         </div>
-        <div id="user-name" class="aside">Nombre Usuario</div>
-        <div class="aside">
-            <h3>Channels</h3>
-        </div>
-        <button id="newchannel" class="buttonaside">+</button>
-        <div>#general</div>
-        <div class="aside">
-            <h3>Direct Messages</h3>
-        </div>
-        <button class="buttonaside">+</button><br>
-        <br>
-        <div class="aside">
-            <h3>Apps</h3>
-        </div>
-        <button class="buttonaside">+</button><br>
-    </aside>
-    <div id="chat-space"> Chat-Space</div>
+        <div id="user-name"></div><br><br>
 
-    <footer> 
-        <button class="add-messege">+</button>
-        <input type="text" placeholder="Messege"></footer>
+        <h3 class="aside">Channels</h3>
+        <button id="newchannel" class="aside" onclick="newchannel()">+</button>
+
+        <div id="divaddchannel">
+            <input id="inputchannel" class="aside" placeholder="# add new channel name">
+            <button id="addchannel" class="aside" onclick="addchannel()">+</button>
+        </div>
+
+        <div id="channel-list">
+            <div id="#general">#general</div>
+        </div>
+
+        <br>
+        <h3 class="aside">Direct Messages</h3>
+        <button class="aside">+</button><br><br>
+
+        <h3 class="aside">Canal</h3>
+        <button class="aside">+</button><br>
+    </aside>
+
+    <header>
+        <div id="title" class="header1">
+            <h2 class="header1">#general</h2>
+        </div>
+        <input type="text" id="search" class="header1" placeholder=&#x1F50E;&#xFE0E;Search>
+    </header>
+
+    <br>
+    <div id="chat-board"> </div>
+
+    <footer>
+        <button class="input-Message" onclick="addmessage()">+</button>
+        <input type="text" id="input-message" class="input-Message" placeholder="Messege" autofocus>
+    </footer>
+
+    <script src="js/main.js"></script>
+
 </body>
 
 </html>
