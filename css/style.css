@@ -44,6 +44,19 @@ header input {
     right: 1%;
 }
 
+#divaddchannel {
+    display: none;
+}
+
+#inputchannel {
+    color: grey;
+    font-style: italic;
+}
+
+#channel-list {
+    cursor: pointer;
+}
+
 .aside {
     display: inline;
     color: rgb(198, 223, 231);
@@ -61,6 +74,16 @@ aside button {
     color: rgb(103, 134, 163);
     border: 1px solid rgb(103, 134, 163);
     background-color: rgb(17, 53, 85);
+}
+
+#chat-board {
+    overflow-y: scroll;
+    overflow: auto;
+    position: absolute;
+    top: 20%;
+    left: 21%;
+    bottom: 20%;
+    right: 2%;
 }
 
 footer {
