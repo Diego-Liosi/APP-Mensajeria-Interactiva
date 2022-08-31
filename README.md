@@ -2,8 +2,8 @@
 # APP-Mensajeria-Interactiva
 
 ## Description
-La presente trabajo fue desarrollado como Proyecto final para completar el Bootcamp: 'Programacion desde Cero', de Geekshubs Academy.
-El objetivo planteado por Geekshubs fue desarrollar la interfaz y las interacciones de una aplicacion de mensajeria.
+El presente trabajo fue desarrollado como proyecto final para completar el Bootcamp: 'Programación desde Cero', de Geekshubs Academy.
+El objetivo planteado por Geekshubs fue desarrollar la interfaz y las interacciones de una aplicación de mensajería.
 
 ## Table of contents
 - [Instalation :electric_plug:](#instalation)
@@ -14,17 +14,19 @@ El objetivo planteado por Geekshubs fue desarrollar la interfaz y las interaccio
 <br>
 
 ## Instalation
-Dado que esta pagina web utiliza HTML, CSS y JavasCript, esta aplicacion correra en cualquier navegador sin la necesidad de la instalacion de aplicaciones adicionales. 
+Dado que esta página web utiliza HTML, CSS y JavaScript, esta aplicación correrá en cualquier navegador sin la necesidad de la instalación de aplicaciones adicionales. 
 <br>
 
 ## Usage
 #### LINK DE INGRESO
-Para iniciar la aplicacion se debe ingresar al siguiente link: https://diego-liosi.github.io/APP-Mensajeria-Interactiva/
+Para iniciar la aplicación se debe ingresar al siguiente link: https://diego-liosi.github.io/APP-Mensajeria-Interactiva/
 
 #### INGRESO NONMBRE DE USUARIO
-Al iniciar la aplicacion, se observara una ventana emergente que nos solicita el ingreso de nuestro nombre de usuario.
-    <img href='img\img1.png'>
-En la misma introducir el nombre y pulsar la tecla ENTER.
+Al iniciar la aplicación, se observará una ventana emergente que nos solicita el ingreso de nuestro nombre de usuario.
+
+<img src='img\img1.png'>
+
+En la misma introducir el nombre y pulsar el botón *Aceptar*.
 <br>
 #### VISTA GLOBAL
 La vista principal cuenta con:
@@ -33,54 +35,59 @@ La vista principal cuenta con:
  - [B - Nuevos Mensajes :speech_balloon:](#nuevos-mensajes)
  - [C- Search o Busqueda :mag_right:](#search-o-busqueda)
 
-<img href='img/img2.png'>
-Es importante aclarar que los apartados de "Direct Messages" y "Apps", no tienen funcionalidad aun, y aparecen solo a modo de relleno.
+<img src='img/img2.png'>
 
-##### AREA DE CANALES
-Aqui es donde se observan el listado de canales.
-Por default el canal seleccionado es el "general". 
+Es importante aclarar que los apartados de **Direct Messages** y **Apps**, no cuentan aún con funcionalidad, aparecen solo a modo de relleno.
+<br>
 
-###### Adicionar un nuevo canal
-Pulsar el boton (+) que esta junto a Channels.
+##### *AREA DE CANALES*
+Aquí es donde se observan el listado de canales.
+Por default el canal seleccionado es el "#general". 
 
-<img href='img/img3.png'>
+###### *Adicionar un nuevo canal*
+Pulsar el botón (+) que esta junto a Channels.
 
-Se desplegara un input donde se debe tipear el nombre del nuevo canal que se desea sumar al listado, y luego pulsar el boton que esta junto al cuadro 
+<img src='img/img3.png'>
 
-<img href='img/img4.png'>
+Se desplegará un input donde se debe ingresar el nombre del nuevo canal que se desea sumar al listado, y luego pulsar el botón que esta junto al cuadro 
 
-Finalmente el Canal aparecera en el listado.
+<img src="img/img4.png">
 
-###### Cambiar de Canal
+Finalmente el Canal aparecerá al final del listado.
+
+###### *Cambiar de Canal*
 Posicionar el cursor del mouse sobre el canal que se desea seleccionar y hacer click sobre este.
 
-<img href='img/img5.png'>
+<img src='img/img5.png'>
 
-El canal seleccionado permanecera marcado como se observa en la figura. 
+El canal seleccionado permanecerá marcado como se observa en la figura. 
+<br>
 
-##### NUEVOS MENSAJES
+##### *NUEVOS MENSAJES*
 
-Escribir el nuevo mensaje en el siguiente input y luego pulsar "ENTER" o hacer click en el boton contiguo (+).
+Escribir el nuevo mensaje en el siguiente input y luego pulsar "ENTER" o hacer click en el botón contiguo (+).
 
-<img href='img/img6.png'>
+<img src='img/img6.png'>
 
-El mensaje aparecera en el cuerpo de la pagina, detallando el Usuario, la Fechay la Hora,
+<br>El mensaje aparecerá en el cuerpo de la página, detallando el *Usuario, la Fecha y la Hora*.
 
-<img href='img/img7.png'>
+<img src='img/img7.png'>
 
-##### SEARCH O BUSQUEDA
-La pagina cuenta con un Search que permite buscar una palabra en todos los canales. 
+<br>
+<br>
+##### *SEARCH O BUSQUEDA*
+La página cuenta con un Search que permite buscar una palabra en todos los canales. 
 
-Para realizar la busqueda, se debe tipear la palabra a buscar en el siguiente input y pulsar la tecla "ENTER".
+Para realizar la búsqueda, se debe ingresar la palabra a buscar en el siguiente input y pulsar la tecla "ENTER".
 
-<img href='img/img8.png'>
+<img src='img/img8.png'>
 
-La pagina devlvera el canal donde la encuentra la palabra requerida.
+La página devolverá el canal donde la encuentra la palabra requerida.
 
 <br>
 
 ## Authors
-Esta pagina web fue desarrollada en su totalidad por Diego Liosi.
+Esta página web fue desarrollada en su totalidad por Diego Liosi.
 
 ## License
 
