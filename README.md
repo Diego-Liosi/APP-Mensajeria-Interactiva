@@ -18,7 +18,10 @@ Dado que esta pagina web utiliza HTML, CSS y JavasCript, esta aplicacion correra
 <br>
 
 ## Usage
-#### Ingreso Nombre de Usuario
+#### LINK DE INGRESO
+Para iniciar la aplicacion se debe ingresar al siguiente link: https://diego-liosi.github.io/APP-Mensajeria-Interactiva/
+
+#### INGRESO NONMBRE DE USUARIO
 Al iniciar la aplicacion, se observara una ventana emergente que nos solicita el ingreso de nuestro nombre de usuario.
     <img href='img\img1.png'>
 En la misma introducir el nombre y pulsar la tecla ENTER.
@@ -26,9 +29,9 @@ En la misma introducir el nombre y pulsar la tecla ENTER.
 #### VISTA GLOBAL
 La vista principal cuenta con:
 
-[A - Area de Canales](#area-de-canales)
-[B - Nuevos Mensajes](#nuevos-mensajes)
-[C- Search o Busqueda](#search-o-busqueda)
+ - [A - Area de Canales :satellite:](#area-de-canales)
+ - [B - Nuevos Mensajes :speech_balloon:](#nuevos-mensajes)
+ - [C- Search o Busqueda :mag_right:](#search-o-busqueda)
 
 <img href='img/img2.png'>
 Es importante aclarar que los apartados de "Direct Messages" y "Apps", no tienen funcionalidad aun, y aparecen solo a modo de relleno.
