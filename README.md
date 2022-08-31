@@ -21,7 +21,7 @@ Dado que esta página web utiliza HTML, CSS y JavaScript, esta aplicación corre
 #### LINK DE INGRESO
 Para iniciar la aplicación se debe ingresar al siguiente link: https://diego-liosi.github.io/APP-Mensajeria-Interactiva/
 
-#### INGRESO NONMBRE DE USUARIO
+#### INGRESO NOMBRE DE USUARIO
 Al iniciar la aplicación, se observará una ventana emergente que nos solicita el ingreso de nuestro nombre de usuario.
 
 <img src='img\img1.png'>
@@ -49,7 +49,7 @@ Pulsar el botón (+) que esta junto a Channels.
 
 <img src='img/img3.png'>
 
-Se desplegará un input donde se debe ingresar el nombre del nuevo canal que se desea sumar al listado, y luego pulsar el botón que esta junto al cuadro 
+Se desplegará un input donde se debe ingresar el nombre del nuevo canal que se desea sumar al listado, y luego pulsar el botón que está junto al cuadro 
 
 <img src="img/img4.png">
 
@@ -75,6 +75,7 @@ Escribir el nuevo mensaje en el siguiente input y luego pulsar "ENTER" o hacer c
 
 <br>
 <br>
+
 ##### *SEARCH O BUSQUEDA*
 La página cuenta con un Search que permite buscar una palabra en todos los canales. 
 
